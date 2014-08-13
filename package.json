@@ -1,0 +1,25 @@
+{
+  "name": "LessonPlans",
+  "version": "0.0.1",
+  "description": "Easily create lessons plans",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/EvolveSeven/LessonPlans.git"
+  },
+  "author": "Aaron Dixon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EvolveSeven/LessonPlans/issues"
+  },
+  "homepage": "https://github.com/EvolveSeven/LessonPlans",
+  "dependencies": {
+      "sails": "0.10.x"
+  },
+  "engines": {
+      "node": "0.10.x"
+  }
+}
