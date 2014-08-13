@@ -1,4 +1,3 @@
-LessonPlans
-===========
+# sails-bootstrap
 
-Create and manage lesson plans for teachers
+a [Sails](http://sailsjs.org) application
